@@ -1,7 +1,6 @@
 <?php
 
 // calcular o MDC
-
 $numero1 = 130;   
 $numero2 = 50;
 $resultado;
