@@ -10,4 +10,4 @@ for($i=0; $i<= count($num); $i++) {
 }
 }
 
-echo "A soma dos pares é:" .array_sum($pares);
+echo "A soma dos pares é:" .array_sum($pares); 
