@@ -1,6 +1,6 @@
 <?php
 
-// calcular o MDC
+// calcular o MDC dos numeros seguintes 
 $numero1 = 130;   
 $numero2 = 50;
 $resultado;
